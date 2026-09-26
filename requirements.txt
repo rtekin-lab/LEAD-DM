@@ -1,0 +1,12 @@
+# Temel bagimliliklar. Surumler, makaledeki sonuclarin uretildigi ortamdir;
+# daha yeni surumlerde de calisir ancak birebir sayisal tekrar garanti degildir.
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+h5py>=3.8
+matplotlib>=3.7
+tqdm>=4.65
+openpyxl>=3.1
+Pillow>=10.0
+wfdb>=4.1          # PTB-XL ve Chapman ham kayitlarini okumak icin

@@ -1,0 +1,27 @@
+# Veri ve agirliklar depoya GIRMEZ. Veri saglayicinin lisansina tabidir,
+# agirliklar ise Zenodo'da arsivlenir.
+data/
+runs/
+results/
+generated/
+*.h5
+*.npy
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Isletim sistemi ve editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Cikti
+*.log
+figures/out/

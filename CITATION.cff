@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Bu yazilimi kullaniyorsaniz lutfen asagidaki gibi atif yapin."
+title: "LEAD-DM: Lead-structured latent diffusion for conditional 12-lead ECG synthesis"
+type: software
+authors:
+  - family-names: Tekin
+    given-names: Ramazan
+    affiliation: "Batman University, Department of Computer Engineering"
+    email: ramazan.tekin@batman.edu.tr
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # eklenecek
+repository-code: "https://github.com/<user>/lead-dm"
+license: MIT
+version: "1.0.0"
+date-released: "2026-01-01"
+preferred-citation:
+  type: article
+  title: "Lead-Structured Latent Diffusion for Conditional 12-Lead ECG Synthesis:
+          Prioritizing Diversity and a Condition-Matched Evaluation Protocol"
+  authors:
+    - family-names: Tekin
+      given-names: Ramazan
+  year: 2026
+  journal: "TBD"
+  doi: "TBD"
